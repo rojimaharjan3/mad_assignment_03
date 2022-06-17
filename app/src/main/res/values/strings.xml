@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">constraint_test</string>
+    <string name="last_text_view"><u>Buy Pro $20 </u></string>
+    <string name="left"><u>Left</u></string>
+</resources>
